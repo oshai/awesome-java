@@ -241,6 +241,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [sql2o](https://sql2o.org) - Thin JDBC wrapper that simplifies database access and provides simple mapping of ResultSets to POJOs.
 - [Vibur DBCP](https://www.vibur.org) - JDBC connection pool library with advanced performance monitoring capabilities.
 - [Xodus](https://jetbrains.github.io/xodus) - Highly concurrent transactional schema-less and ACID-compliant embedded database.
+- [jasync-sql](https://github.com/jasync-sql/jasync-sql) - Java async database driver for MySQL and PostgreSQL written in Kotlin.
 
 ### Data Structures
 
